@@ -1,0 +1,41 @@
+.specific-item {
+  width: 50%;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.specific-image {
+  width: 40%;
+  height: 150px;
+  border-radius: 8px;
+  margin-right: 15px;
+}
+.specific-head {
+  font-size: 18px;
+  font-weight: 700;
+  color: #334155;
+}
+.specific-desp {
+  font-size: 16px;
+  font-weight: 500;
+  color: #334155;
+}
+.specific-star {
+  color: #ffcc00;
+  width: 12px;
+  height: 12px;
+}
+.specific-rating {
+  font-size: 14px;
+  font-weight: 700;
+  color: #0a1f44;
+}
+.specific-button {
+  border-radius: 8px;
+  border: 2px solid #ffa412;
+  color: #ffa412;
+  background-color: transparent;
+  font-size: 12px;
+  padding: 5px;
+}

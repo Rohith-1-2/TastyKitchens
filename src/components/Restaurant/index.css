@@ -1,0 +1,55 @@
+.rest-item {
+  width: 31%;
+  flex-shrink: 0;
+}
+.rest-image {
+  width: 160px;
+  height: 100px;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.rest-link {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+.rest-head {
+  color: #334155;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+.rest-para {
+  color: #64748b;
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+.star {
+  color: #ffcc00;
+  width: 12px;
+  height: 12px;
+  margin-right: 5px;
+}
+.star-rating {
+  font-size: 14px;
+  font-weight: 700;
+  color: #1e293b;
+  margin-right: 5px;
+}
+.star-review {
+  font-size: 12px;
+  color: #64748b;
+  font-weight: 400;
+}
+.star-container {
+  display: flex;
+  align-items: center;
+  margin-top: 0px;
+}
+.desp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

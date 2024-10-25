@@ -1,0 +1,26 @@
+.not-found {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.not-pic {
+  width: 15%;
+}
+.not-para {
+  text-align: center;
+  color: #475569;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+.not-button {
+  background-color: #f7931e;
+  border-radius: 12px;
+  width: 123px;
+  border: 0px;
+  color: white;
+  height: 48px;
+}

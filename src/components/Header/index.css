@@ -1,0 +1,45 @@
+.nav-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #f8fafc;
+}
+.nav-card {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+.header-first {
+  display: flex;
+  text-decoration: none;
+}
+.unorder {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0px;
+}
+.header-second {
+  display: flex;
+  align-items: center;
+}
+.header-para {
+  font-style: italic;
+  color: #f7931e;
+  font-weight: 700;
+  margin-left: 10px;
+}
+.list-Item {
+  color: black;
+  text-decoration: none;
+  margin-right: 15px;
+}
+.logout-button {
+  background-color: #f7931e;
+  color: white;
+  border-radius: 5px;
+  border: 0px;
+  padding: 5px;
+  margin-left: 20px;
+  width: 70px;
+}

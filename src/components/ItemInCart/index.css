@@ -1,0 +1,27 @@
+.in-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.box1 {
+  display: flex;
+  align-items: center;
+  width: 300px;
+}
+.in-image {
+  width: 136px;
+  height: 100px;
+  margin-right: 10px;
+  border-radius: 8px;
+}
+.in-head {
+  font-size: 20px;
+  font-weight: 500;
+  color: #183b56;
+}
+.in-para {
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffa412;
+}

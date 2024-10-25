@@ -1,0 +1,17 @@
+.count-container {
+  display: flex;
+}
+.decrement-button {
+  background-color: transparent;
+  width: 22px;
+  height: 22px;
+  border: 1px solid #334155;
+  border-radius: 2.25px;
+}
+.active-number {
+  color: #475569;
+  font-size: 16px;
+  font-weight: 500;
+  margin-left: 8px;
+  margin-right: 8px;
+}
